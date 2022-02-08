@@ -1,8 +1,27 @@
 how to use this tool?
-1st you need a api, Can you use this, This my api => dfb8e02ada864c36ad3257e779154e03
 
-put this to api key
+Find a phishing page
 
-now go to Omegle then before you start video call random strangers, Just click inspect elements or go to webdev tools, go to console, then just put thr code, 
+put random letter to input
 
-the code is OMEGLEtracking just copy and paste then click Start, If itd start just see the console, Then information or location just appear at the moment in you video call
+just click inspect elements
+
+go to Network
+
+get the post data like
+
+email: input mo
+
+password: input mo
+
+then find then .php file like login.php on the insepct elements
+
+then the code of py just change in your information
+
+if need tutorial vids, Message me Arjay Ellema in Facebook
+
+
+
+
+
+
